@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align='center'>
-    <img src='https://i.imgur.com/OHySNa4.gif' width='20%' alt='kikuri' />
+    <img src='https://i.imgur.com/MgIfib9.gif' width='20%' alt='kikuri' />
 </div>
 <hr>
 
