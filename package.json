@@ -1,0 +1,20 @@
+{
+  "name": "kikuri",
+  "version": "1.0.0",
+  "description": "Custom tailored Discord bot using the Sapphire Framework",
+  "main": "src/bot.js",
+  "author": "4miau",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@sapphire/framework": "^5.3.1",
+    "axios": "^1.7.9",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "google-spreadsheet": "^4.1.4",
+    "mongoose": "^8.9.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/bot.js"
+  }
+}
