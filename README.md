@@ -10,14 +10,16 @@
 # Kikuri
 
 
-- [Kikuri](#kikuri) <!-- <img src="https://i.imgur.com/yyb4WpE.png" align="right" width=200> -->
-  - [Introduction](#1-introduction)
-  - [Features](#2-features)
-  - [Developing](#3-developing)
-  - [Links](#4-links)
-  - [Contributing](#5-contributing)
-  - [Author](#6-author)
-  - [Notes](#7-notes)
+- [Kikuri](#kikuri)
+  - [1. Introduction](#1-introduction)
+  - [2. Features](#2-features)
+  - [3. Developing](#3-developing)
+    - [Requirements](#requirements)
+  - [4. Links](#4-links)
+  - [5. Contributing](#5-contributing)
+  - [6. Author](#6-author)
+  - [7. Notes](#7-notes)
+    - [Meaningless Dev Progress Notes](#meaningless-dev-progress-notes)
 
 ## 1. Introduction
 
